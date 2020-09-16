@@ -1,2 +1,2 @@
 # Tic-tac-toe
-Tic-tac-toe game
+This is my first ever python mini project.
